@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
         "./models/database"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
