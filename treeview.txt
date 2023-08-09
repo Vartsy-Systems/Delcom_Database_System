@@ -1,0 +1,8 @@
+S/N	student_id	Student Name	Date Of Birth	Place Of Birth	Name Of Parent	Mobile Number	class	Residence	Date Of Registration
+16	COC/SC/B8/22/0001	Samuel Nyonator	09-03-2023	Ashaiman	Emmanuel Nyonator	541406137	B8	Ashaiman	09-03-2023
+17	COC/SC/23/16972045	Foster Amoh	09-03-2023	Jericho	Mr. Amoh	541406137	B 9	Night Market	09-03-2023
+18	COC/SC/23/16972045	Foster Amoh	09-03-2023	Jericho	Mr. Amoh	541406137	B 9	Night Market	09-03-2023
+19	COC/SC/23/16972045	Foster Amoh	09-03-2023	Jericho	Mr. Amoh	541406137	B 9	Night Market	09-03-2023
+21	COC/SC/23/17512829	James Nyonator	01-01-2005	Ashaiman 	Mr. Michael 	242401533	B9	Jericho	09-03-2023
+22	COC/SC/23/13911267	Agbozo Kelvin	08-03-1996	Ada	Mr. Agbozo	541406137	Basic 6	Ashaiman	13-03-2023
+23	COC/SC/23/11281176	Zulaiya Idrrisu	19-04-2023	Ashaiman	Hawa Idrisu	18497	6581+9	656189	19-04-2023
